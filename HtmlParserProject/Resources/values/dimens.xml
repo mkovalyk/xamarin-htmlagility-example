@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!--  Tablet Screen-->
+    <dimen name="margin_left_tablet">10dp</dimen>
+    <dimen name="margin_right_tablet">10dp</dimen>
+    <dimen name="margin_left_phone">4dp</dimen>
+    <dimen name="margin_right_phone">4dp</dimen> 
+    <dimen name="buttons_width_tablet">200dp</dimen>
+    <dimen name="checkbox_padding_tablet">40dp</dimen>
+    <dimen name="margin_between_table_items">5dp</dimen>
+    <dimen name="numpad_button_height">80dp</dimen>
+    <dimen name="numpad_button_width">165dp</dimen>
+</resources>

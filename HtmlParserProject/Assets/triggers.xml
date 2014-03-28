@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+   <Category Name="Book" MediaTypeId="0" Image="0" ImageName = "book" />
+   <Category Name="DVD" MediaTypeId="1" Image="3" ImageName= "dvd" />
+   <Category Name="VHS" MediaTypeId="2" Image="2"  ImageName = "vhs"/>
+   <Category Name="Music CD" MediaTypeId="3" Image="1" ImageName = "music_cd"/>
+   <Category Name="Video Game" MediaTypeId="4" Image="5" ImageName = "video" />
+   <Category Name="Software" MediaTypeId="5" Image="4" ImageName = "software" />
+   <Category Name="Others" MediaTypeId="6" Image="6" ImageName = "others"/>
+</Categories>

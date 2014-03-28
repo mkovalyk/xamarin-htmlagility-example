@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>-NOTICE-</key>
+	<string>THIS FILE IS DIGITALLY SIGNED. DO NOT MODIFY.</string>
+	<key>Company Name</key>
+	<string>hgyang107@gmail.com</string>
+	<key>iOS</key>
+	<dict>
+		<key>App Bundle IDs</key>
+		<array>
+			<string>com.mnp26.amazonpricechecker</string>
+		</array>
+	</dict>
+	<key>Android</key>
+	<dict>
+		<key>Root Class Names</key>
+		<array>
+			<string>com.amazonpricing.checker</string>
+		</array>
+	</dict>
+</dict>
+</plist>
+-----BEGIN SIGNATURE-----
+HBWS6iu/KwGv6OnP09RzaMYQnVWmsThHAcrSsL0MDJ9nlV4BHnblurO+2h41/MZF
+uWF3OyT8qgiVpiBWGQTb7Xvi2dn4adV1sHl+FYzVZCDiPO9rRzmR9I3mAV/vOOBh
+BS4OwkqK6AsQHLNCWNhSQy2AA+gVZBlvbMPyYABrhkI/OscD/8ecdRYHL3tVPdRE
+EFdzlMbO5jf+WCW20zI7sCm+AaQ8UHjGMz7AuAgK99aLQ2/OzD9b0N0FBdnwTSYT
+kWzoO91O5CJignjBp8OiGxMm01PJPKc5GVEckUW9JaRfRE4qiR3ODpT7nRRh3VQn
+Yg7Ay9FCeSaxVLTeW2fENOlKEaFDu55i4dZfV7DMek1iglqJaYPpaQgf8xR1/7LT
+X1naWugjwconJObXlCpnbLvvz79wTzDGoKYoMjfNUcHMt+XZS2b1UU5nWo/rDRLH
+ihVbiv9HaoVkyuhVobpW2uJF3d3D4D2QdBGRyY+VUcqyqxodStlCHY00s0YU4MIv
+7dlUEeV7CX1LCg0clyLi3nYqKEXm3etIcc8KgCT3GI8JVztliX5S4ptNfwK43Grv
+oIIYMGnhwOeY8S1UB3MAu4xiHYoh/rFE76oCdcSd0ll73qTuRNBxexHkWJo62xla
+JKRFEFNM2giFob4xQddE36dyPXY/vE+KBL29Txa8Euo=
+-----END SIGNATURE-----

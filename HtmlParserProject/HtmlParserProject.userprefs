@@ -1,0 +1,55 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CamelActivity.cs">
+    <Files>
+      <File FileName="CamelActivity.cs" Line="227" Column="29" />
+      <File FileName="Resources\values\styles.xml" Line="1" Column="1" />
+      <File FileName="Resources\values\strings.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State />
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>returnInfo</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="c:\Users\mike\Dropbox\APC-mono_out\APC-mono_out 03-06-2013\APC-mono_out 03-06-2013\APC-mono_out\AmazonPriceChecker-mono\DownloadActivity.cs" line="241" column="1" />
+      <Breakpoint file="c:\Users\mike\Dropbox\APC-mono_out\APC-mono_out 03-06-2013\APC-mono_out 03-06-2013\APC-mono_out\AmazonPriceChecker-mono\DownloadFile.cs" line="57" column="1" />
+      <Breakpoint file="c:\Users\mike\Dropbox\APC-mono_out\APC-mono_out 03-06-2013\APC-mono_out 03-06-2013\APC-mono_out\AmazonPriceChecker-mono\DownloadFile.cs" line="75" column="1" />
+      <Breakpoint file="c:\Users\mike\Dropbox\APC-mono_out\APC-mono_out 03-06-2013\APC-mono_out 03-06-2013\APC-mono_out\AmazonPriceChecker-mono\DownloadFile.cs" line="51" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\APC-mono_out\APC-mono_out\AmazonPriceChecker-mono\DownloadActivity.cs" line="468" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\APC-mono_out\APC-mono_out\AmazonPriceChecker-mono\Archives\ZipArchive.cs" line="209" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\APC-mono_out\APC-mono_out_phone\APC-mono_out\AmazonPriceChecker-mono\MainActivity.cs" line="1762" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\APC-mono_out\APC-mono_out_phone\APC-mono_out\AmazonPriceChecker-mono\MainActivity.cs" line="1758" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\APC-mono_out\APC-mono_out_phone\APC-mono_out\AmazonPriceChecker-mono\MainActivity.cs" line="1738" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\APC-mono_out\APC-mono_out_phone\APC-mono_out\AmazonPriceChecker-mono\MainActivity.cs" line="1745" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out (19)\AmazonPriceChecker-mono\Trigger\DetailTriggerActivity.cs" line="328" column="41" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out (19)\AmazonPriceChecker-mono\MenuActivity.cs" line="133" column="6" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MainActivity.cs" line="491" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MainActivity.cs" line="1914" column="24" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MainActivity.cs" line="1930" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MainActivity.cs" line="1905" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MainActivity.cs" line="1978" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MainActivity.cs" line="876" column="10" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\ItemsActivity.cs" line="60" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\MenuActivity.cs" line="32" column="1" />
+      <Breakpoint file="C:\Users\mike\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out(19)(222)\AmazonPriceChecker-mono\ItemsActivity.cs" line="22" column="1" />
+      <Breakpoint file="D:\Dropbox\Android\Projects\Xamarin\APC-mono_out\APC-mono_out\APC-mono_out_phone\APC-mono_out_Cleaned\AmazonPriceChecker-mono\CamelActivity.cs" line="528" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Trigger\TriggerTypeActivity.cs" line="33" offsetX="647" offsetY="608" expression="this.categories" liveUpdate="False" />
+    <Watch file="Trigger\TriggerManager.cs" line="52" offsetX="368" offsetY="816" expression="list" liveUpdate="False" />
+    <Watch file="Trigger\DetailTriggerActivity.cs" line="339" offsetX="261" offsetY="5429" expression="System.Globalization.CultureInfo" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Solution_220Items.HtmlParserProject MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="SWIBCYDYPFIB9HWG" />
+</Properties>
